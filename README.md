@@ -1,4 +1,4 @@
-# S1E11-robot-framework
+# S1E11 - Web Test Automation with RobotFramework
 
 ![image](https://user-images.githubusercontent.com/89974862/145591105-8edc612e-003e-461c-b88a-a4440fba9c19.png)
 
