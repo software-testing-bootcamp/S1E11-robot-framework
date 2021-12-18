@@ -9,6 +9,17 @@
 
 https://youtu.be/7EMnR5ZLZVU
 
+
+**Resources**
+
+https://robotframework.org/
+
+
+**Repoository owner**
+
+https://www.linkedin.com/in/h%C3%BCr-ibrahim-sakman/
+
+
 ******
 
 "Software Testing Bootcamp" is a community of people interested in software testing. We record the weekly webinars that we organize and publish them on Youtube. For more information -> https://testingbootcamp.com/
