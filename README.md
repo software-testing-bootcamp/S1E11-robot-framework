@@ -15,7 +15,7 @@ https://youtu.be/7EMnR5ZLZVU
 https://robotframework.org/
 
 
-**Repoository owner**
+**Repository owner**
 
 https://www.linkedin.com/in/h%C3%BCr-ibrahim-sakman/
 
